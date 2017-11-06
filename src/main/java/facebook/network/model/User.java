@@ -64,7 +64,8 @@ public class User {
                 + "\n"
                 + "surname: " + surname
                 + "\n"
-                + "town: " + town;
+                + "town: " + town
+                + "\n";
     }
 }
 
